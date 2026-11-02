@@ -1,6 +1,6 @@
 # Assignment 3: JavaScript Data Toolkit
 
-- **Name:** YOUR NAME HERE
+- **Name:** Daniel Knight
 - **Scenario:** Book Collection (`data/books.json`)
 - **Route:** Console (no live site)
 
