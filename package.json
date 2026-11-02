@@ -1,0 +1,6 @@
+{
+  "name": "cs300-collection-toolkit",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node harness.js" }
+}
